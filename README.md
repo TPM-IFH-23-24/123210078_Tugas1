@@ -12,3 +12,7 @@ Bagus MA Travel 🦉
 6. Jalankan web service (`npm run dev`) pada direktori /backend
 7. Jalankan project flutter (`flutter run`) pada direktori root
 8. 🏃🏻‍♂️‍➡️
+
+## Screenshot &nbsp; 📸
+
+![app screenshot](ss.png)
